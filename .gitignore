@@ -1,0 +1,21 @@
+# Build outputs
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.hex
+*.elf
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local secrets / scratch
+*.local
+scratch/
