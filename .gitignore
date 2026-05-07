@@ -19,3 +19,7 @@ Thumbs.db
 # Local secrets / scratch
 *.local
 scratch/
+
+# Local Claude Code / OMC tooling state
+.claude/
+.omc/
